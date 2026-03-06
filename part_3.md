@@ -7,9 +7,9 @@
   - economic downturns
 - These effects likely compound over 5 years significantly more than 3 years.
 
-![img.png](img.png)
+![img.png](img/img.png)
 
-![img_1.png](img_1.png)
+![img_1.png](img/img_1.png)
 
 ## Actionable Recommendation: Tighten Eligibility for 60-Month Loans Using Known Protective Factors
 
